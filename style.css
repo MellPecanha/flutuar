@@ -38,6 +38,10 @@ p {
   color: #828282;
 }
 
+p span {
+  font-weight: bold;
+}
+
 .line {
   border-top: 1px solid #ECEFF2;
 
